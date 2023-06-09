@@ -1,0 +1,9 @@
+* plexippus-xpath
+
+XPath implementation in Common Lisp
+
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/gonzojive/plexippus-xpath.git |
+| commit  | 7abb91b                                              |
+| systems | xpath                                                |
+|---------+------------------------------------------------------|
